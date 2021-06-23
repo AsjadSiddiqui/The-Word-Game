@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "110362104573",
+    "project_id": "the-word-game-41be6",
+    "storage_bucket": "the-word-game-41be6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:110362104573:android:6d2c27e92cbaff777c6494",
+        "android_client_info": {
+          "package_name": "com.yassine.the_word_game"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "110362104573-7assjhi5kvphr2sg0ugr2p1m8ft8u22c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDD7ahDfVOOy2q-hNV6VN5fVTngMbObRMg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "110362104573-7assjhi5kvphr2sg0ugr2p1m8ft8u22c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
