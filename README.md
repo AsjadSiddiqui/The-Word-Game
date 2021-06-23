@@ -24,19 +24,23 @@ git clone https://github.com/yassinedevop/The-Word-Game
 2. change the name from `The-Word-Game` to `the_word_game` because flutter doesn't allow the usage of `uppercases` and `-` for package names
 
 3. open your cmd and check that you are in the folder that we clone than run this command :
-  flutter create .
+<pre> flutter create . </pre>
  
 this command will generate all the necessary files to be able to build the app
 
 #### for any questions or infos :
 ##### my instagram :
+
 https://www.instagram.com/math_coder/
+
 ##### my youtube channel:
+
 https://www.youtube.com/channel/UCSGKkZlXv8EFbCBlS-v6ToQ/videos
 
 # Assets
 ### sounds and music
 All sounds and music belong to the opensource library freesound :
+
 freesound.org/home
 
 ### Animation is made with Rive
