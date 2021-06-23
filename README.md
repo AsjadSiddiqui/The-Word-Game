@@ -2,9 +2,9 @@
 ![Android - 1first](https://user-images.githubusercontent.com/62672904/123085228-e9665200-d419-11eb-9598-35dafa99a403.png)
 
 
-# The-Word-Game
-Another word search game *made with flutter and love*
-
+# The Word Game
+The word game is another word search game *made with flutter and love*
+This word game is based on the poppular  cross platform game `Ruzzle` you can say that's it's clone of it :), anyway enjoy playing ! 
 
 This is a demo ^^
 
