@@ -10,11 +10,13 @@ This is a demo ^^
 
   https://www.youtube.com/watch?v=ABR7mLz3OgQ
 
+## to download the app
 
+https://drive.google.com/file/d/1rVkX4cA_iMiQ8D3RzEF23VpeRUTBagmk/view?usp=sharing
 
-This is the usage if you want to clone game's files to your pc
 
 # Usage
+This is the usage if you want to clone game's files to your pc
 
 1. try to clone my repository :
 <pre>
