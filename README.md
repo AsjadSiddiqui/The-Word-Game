@@ -1,14 +1,14 @@
 
-<center>
 ![Android - 1first](https://user-images.githubusercontent.com/62672904/123085228-e9665200-d419-11eb-9598-35dafa99a403.png)
-</center>
+
 
 # The-Word-Game
 Another word search game *made with flutter and love*
 
 
 This is a demo ^^
-https://www.youtube.com/watch?v=ABR7mLz3OgQ
+
+  https://www.youtube.com/watch?v=ABR7mLz3OgQ
 
 
 
@@ -17,7 +17,7 @@ This is the usage if you want to clone game's files to your pc
 # Usage
 
 1. try to clone my repository :
-  git clone https://github.com/yassinedevop/The-Word-Game
+<code>  git clone https://github.com/yassinedevop/The-Word-Game <code>
 
 2. change the name from `The-Word-Game` to `the_word_game` because flutter doesn't allow the usage of `uppercases` and `-` for package names
 
