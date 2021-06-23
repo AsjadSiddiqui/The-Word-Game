@@ -17,7 +17,9 @@ This is the usage if you want to clone game's files to your pc
 # Usage
 
 1. try to clone my repository :
-<code>  git clone https://github.com/yassinedevop/The-Word-Game <code>
+<pre>
+git clone https://github.com/yassinedevop/The-Word-Game
+</pre>
 
 2. change the name from `The-Word-Game` to `the_word_game` because flutter doesn't allow the usage of `uppercases` and `-` for package names
 
